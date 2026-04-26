@@ -1,1 +1,1 @@
-# coffe-consumption
+# coffee-consumption
